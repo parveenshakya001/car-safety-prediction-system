@@ -132,7 +132,7 @@ with gr.Blocks(theme=gr.themes.Soft(primary_hue="blue", neutral_hue="slate")) as
     gr.Markdown("""
     ---
     ### 👨‍💻 About the Developer
-    **Created by:** Chandan Saroj (MERN Stack Developer & SDE)
+    **Created by:** Parveen
     * **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL_HERE)
     * **GitHub:** [Check out my projects](YOUR_GITHUB_URL_HERE)
     """)
